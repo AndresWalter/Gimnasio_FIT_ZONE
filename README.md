@@ -10,7 +10,7 @@ Este archivo contiene los estilos CSS para todo el sitio web.
 También incluye estilos responsivos para adaptarse a diferentes tamaños de pantalla.
 
 app.js:
-Este archivo contiene la lógica JavaScript para mostrar y ocultar el menú de navegación en la versión móvil del sitio web.
+Este archivo contiene la lógica JavaScript con funcionalidades de compra y accesibilidad.
 
 
 Cómo Usar el Sitio Web
