@@ -62,3 +62,5 @@ Si deseas contribuir al proyecto:
 Haz un Fork del repositorio
 Crea una nueva rama para tus cambios
 Envía un Pull Request.
+
+********¡Gracias por tu interés en FIT ZONE!********
